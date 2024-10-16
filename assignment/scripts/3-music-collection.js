@@ -23,7 +23,9 @@ function addToCollection(collection, title, artist, yearPublished) {
 // Test the addToCollection function
 console.log("Albums to my collections:"); 
 
+
 addToCollection(myCollection, "No Woman, No Cry", "Bob Marley", 1974); 
+addToCollection(myCollection, "Moody Blue", "Elvis Presley", 1976);
 addToCollection(myCollection, "Billie Jean", "Michael Jackson", 1982); 
 addToCollection(myCollection, "All Night Long", "	Lionel Richie", 1983); 
 addToCollection(myCollection, "Thriller", "Michael Jackson", 1983); 
